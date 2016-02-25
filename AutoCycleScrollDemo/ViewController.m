@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    aaaa
+    let v = UIView()
 }
 
 - (void)didReceiveMemoryWarning {
